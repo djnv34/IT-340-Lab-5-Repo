@@ -1,0 +1,52 @@
+===== System Monitoring Report =====
+Timestamp: Sun Oct 26 01:40:01 EDT 2025
+
+Uptime:
+ 01:40:01 up  9:09,  2 users,  load average: 0.59, 0.43, 0.35
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.2Gi       1.8Gi       255Mi        44Mi       934Mi       1.4Gi
+Swap:          3.3Gi       978Mi       2.4Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           658M  1.8M  656M   1% /run
+/dev/sda2        19G  9.7G  8.1G  55% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K  3.4K  253K   2% /sys/firmware/efi/efivars
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/sda1       952M  6.6M  945M   1% /boot/efi
+tmpfs           1.7G  1.5M  1.7G   1% /tmp
+tmpfs           329M  4.1M  325M   2% /run/user/1000
+tmpfs           329M   52K  329M   1% /run/user/1002
+====================================
+
+===== System Monitoring Report =====
+Timestamp: Sun Oct 26 01:41:01 EDT 2025
+
+Uptime:
+ 01:41:01 up  9:10,  2 users,  load average: 0.40, 0.40, 0.35
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.2Gi       1.8Gi       260Mi        44Mi       935Mi       1.4Gi
+Swap:          3.3Gi       978Mi       2.4Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           658M  1.8M  656M   1% /run
+/dev/sda2        19G  9.7G  8.1G  55% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K  3.4K  253K   2% /sys/firmware/efi/efivars
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/sda1       952M  6.6M  945M   1% /boot/efi
+tmpfs           1.7G  1.5M  1.7G   1% /tmp
+tmpfs           329M  4.1M  325M   2% /run/user/1000
+tmpfs           329M   52K  329M   1% /run/user/1002
+====================================
+
